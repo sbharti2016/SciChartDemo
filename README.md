@@ -1,5 +1,5 @@
 # SciChartDemo
-This repo demonstrate the implementation of Sci Charts. 
+This repo demonstrate the implementation of SciCharts.  
 
 # Official SciChart Documentation
 https://www.scichart.com/documentation/ios/current
