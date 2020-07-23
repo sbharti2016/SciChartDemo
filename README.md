@@ -12,6 +12,9 @@ https://www.scichart.com/documentation/ios/current/integrating-scichart-librarie
 There are series of steps to download SciChart's trial license. You have to download `SciChart Licensing Wizard`application and get the `Trial License Key` depends on SDK. Tap below for more information on license
 https://www.scichart.com/documentation/ios/current/licensing-scichart-ios.html
 
+Download the SciChart Licensing Wizard here
+https://www.scichart.com/cross-platform-licensing-wizard/
+
 # App Snapshots
 
 ![1](https://user-images.githubusercontent.com/60354752/88195746-5cfe4e80-cc0e-11ea-952c-1dd19381fb4f.gif)
